@@ -16,7 +16,8 @@ The jupyter notbook covers:
 
 - Libraries import
 - Reading the files
-- Exploratory Data Analysis & Preprocessing
+- Exploratory Data Analysis 
+- Data Preprocessing
 - Data Visualisation
 - Timeseries tests
 - Decomposition & Correlation tests
