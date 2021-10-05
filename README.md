@@ -27,7 +27,7 @@ This project has its limitations as the main goal is to set a framework for anal
 The most notable limitations are:
 - The prediction variables are only the historical data of cases and deaths. ()
 - Potential data logging errors related to reporting have not been aborded. (Double checking and any verifications are not feasible at least when considering the scope and scale of this project)
--   
+- Predictition results could be optimised further by setting manually certain parameters or using other methods.
 
 
 
