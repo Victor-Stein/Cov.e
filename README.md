@@ -2,7 +2,7 @@
 Cov.e project (new seperate repo)
 
 
-This project aims at predicting analysing COVID-19 Data and predict the evolution of the number of cases and deaths. The project is divided into 4 main phases:
+This project aims at analysing COVID-19 Data and predicting the evolution of the number of cases and deaths. The project is divided into 4 main phases:
 1) Data selection 
 2) Exploratory Analysis & Preprocessing
 3) Predictive ML Modeling
