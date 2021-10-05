@@ -34,4 +34,4 @@ The most notable limitations (and potential improvements) are:
 
 
 DISCLAIMER: The project is for learning purposes, it IS NOT meant to provide scientific proof nor constitutes a viable analyses of the virus behaviour. 
-All the data used is only valid for the first 2 quarters of 2021 at the time of file creation. Dataset used may be out of date at a certain point of time for several reasons (possible corrections being made, changes in reporting methods,etc...).
+All the data used is only valid for the first 2 quarters of 2021 at the time of file creation. Dataset used may be out of date at a certain point of time for several reasons (possible corrections being made, changes in reporting methods,etc...). 
