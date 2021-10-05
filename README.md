@@ -25,7 +25,7 @@ The jupyter notbook covers:
 
 This project has its limitations as the main goal is to set a framework for analysing data in general and provide an easy to understand structure than can be applicable and used to solve similar problems.
 The most notable limitations are:
-- The prediction variables are only the historical data of cases and deaths. ()
+- The prediction variables are only the historical data of cases and deaths. (Other variables have impact however key elements notably from a virology standpoint, behavioural registred data, restrictions impacts among others could be included to have a holistic view of the problem)
 - Potential data logging errors related to reporting have not been aborded. (Double checking and any verifications are not feasible at least when considering the scope and scale of this project)
 - Predictition results could be optimised further by setting manually certain parameters or using other methods.
 
